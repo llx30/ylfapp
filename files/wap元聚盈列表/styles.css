@@ -1,0 +1,147 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:536px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u4557_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:375px;
+  height:669px;
+}
+#u4557 {
+  border-width:0px;
+  position:absolute;
+  left:36px;
+  top:20px;
+  width:375px;
+  height:669px;
+}
+#u4558 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:326px;
+  width:371px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4559_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:-9px;
+  width:150px;
+  height:19px;
+}
+#u4559p000 {
+  border-width:0px;
+  position:absolute;
+  left:-1px;
+  top:-2px;
+  width:144px;
+  height:4px;
+}
+#u4559p000_img {
+  border-width:0px;
+  position:absolute;
+  left:-1px;
+  top:-1px;
+  width:146px;
+  height:6px;
+}
+#u4559p001 {
+  border-width:0px;
+  position:absolute;
+  left:-1px;
+  top:0px;
+  width:3px;
+  height:2px;
+}
+#u4559p001_img {
+  border-width:0px;
+  position:absolute;
+  left:-1px;
+  top:-1px;
+  width:4px;
+  height:4px;
+}
+#u4559p002 {
+  border-width:0px;
+  position:absolute;
+  left:127px;
+  top:-10px;
+  width:20px;
+  height:20px;
+}
+#u4559p002_img {
+  border-width:0px;
+  position:absolute;
+  left:-1px;
+  top:-1px;
+  width:22px;
+  height:22px;
+}
+#u4559.compound {
+  width:0px;
+  height:0px;
+}
+#u4559 {
+  border-width:0px;
+  position:absolute;
+  left:294px;
+  top:659px;
+  width:141px;
+  height:1px;
+}
+#u4560 {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:-8px;
+  width:137px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4561_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:95px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u4561 {
+  border-width:0px;
+  position:absolute;
+  left:441px;
+  top:652px;
+  width:95px;
+  height:16px;
+}
+#u4562 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:95px;
+  white-space:nowrap;
+}
